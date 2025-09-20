@@ -43,7 +43,10 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /><b> Connect With Me</b>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
+  <a href="https://www.linkedin.com/in/thinal-fernando/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+   <a href="mailto:r.thinal.fernando@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
